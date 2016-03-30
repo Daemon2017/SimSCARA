@@ -1,0 +1,18 @@
+c:\users\dmitriy\documents\visual studio 2013\Projects\scara\scara\bin\Debug\scara.exe.config
+c:\users\dmitriy\documents\visual studio 2013\Projects\scara\scara\obj\Debug\scara.csprojResolveAssemblyReference.cache
+c:\users\dmitriy\documents\visual studio 2013\Projects\scara\scara\obj\Debug\scara.Form1.resources
+c:\users\dmitriy\documents\visual studio 2013\Projects\scara\scara\obj\Debug\scara.Properties.Resources.resources
+c:\users\dmitriy\documents\visual studio 2013\Projects\scara\scara\obj\Debug\scara.csproj.GenerateResource.Cache
+c:\users\dmitriy\documents\visual studio 2013\Projects\scara\scara\bin\Debug\scara.exe
+c:\users\dmitriy\documents\visual studio 2013\Projects\scara\scara\bin\Debug\scara.pdb
+c:\users\dmitriy\documents\visual studio 2013\Projects\scara\scara\obj\Debug\scara.exe
+c:\users\dmitriy\documents\visual studio 2013\Projects\scara\scara\obj\Debug\scara.pdb
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\bin\Debug\scara.exe.config
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\obj\Debug\scara.exe
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\obj\Debug\scara.pdb
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\bin\Debug\scara.exe
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\bin\Debug\scara.pdb
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\obj\Debug\scara.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\obj\Debug\scara.Form1.resources
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\obj\Debug\scara.Properties.Resources.resources
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\obj\Debug\scara.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\bin\Release\scara.exe.config
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\bin\Release\scara.exe
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\bin\Release\scara.pdb
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\obj\Release\scara.Form1.resources
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\obj\Release\scara.Properties.Resources.resources
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\obj\Release\scara.csproj.GenerateResource.Cache
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\obj\Release\scara.exe
+C:\Users\Daemon\Documents\GitHub\SimSCARA\scara\obj\Release\scara.pdb
